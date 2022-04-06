@@ -1,1 +1,3 @@
-"update done by devloper by local machine with cmd." 
+"update done by devloper by local machine with cmd."
+
+new update in f1.txt 
